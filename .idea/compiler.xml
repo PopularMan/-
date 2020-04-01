@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton" />
+        <module name="Factory" />
+        <module name="AbstractFactory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="singleton" target="8" />
+      <module name="AbstractFactory" target="1.5" />
+      <module name="Factory" target="1.5" />
+      <module name="singleton" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

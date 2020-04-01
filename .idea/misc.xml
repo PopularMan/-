@@ -7,6 +7,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Factory/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractFactory/pom.xml" />
       </list>
     </option>
   </component>
