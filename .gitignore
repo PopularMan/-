@@ -2,7 +2,7 @@
 /bin/
 .checkstyle
 .DS_Store
-
+.mvn
 ### STS ###
 .apt_generated
 .classpath
